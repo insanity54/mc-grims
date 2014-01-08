@@ -8,7 +8,7 @@
     "nunjucks": "~1.0.1"
   },
   "scripts": {
-    "setup": "node ./setup.js"
+    "setup": "node ./setup.js",
     "start": "node ./app.js"
   }
 }

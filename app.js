@@ -1,6 +1,5 @@
-var proc = require('child_process'), // lib to enable child processes in node
-    servers = require('./servers'),  // server list
-    server = null,                   // server to start by default
+//var //servers = require('./servers'),  // server list
+var server = null,                   // server to start by default
     mc_server = null,                // minecraft java server process will be held here
 
     fs = require('fs'),              // module for working with filesystem
