@@ -8,7 +8,7 @@ A simple manager for starting and sending commands to Minecraft Servers via a we
 
 2) npm install
 
-3) npm configure
+3) npm setup
 
 4) npm start
 
