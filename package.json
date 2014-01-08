@@ -1,0 +1,13 @@
+{
+  "name": "mc-grims",
+  "version": "0.0.0",
+  "dependencies": {
+    "socket.io": "~0.9.8",
+    "nconf": "~0.6.9",
+    "express": "~3.4.7",
+    "nunjucks": "~1.0.1"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  }
+}
