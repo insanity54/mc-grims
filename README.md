@@ -1,6 +1,8 @@
 MC-Grims
 ============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/mc-grims.svg)](https://greenkeeper.io/)
+
 A simple manager for starting and sending commands to Minecraft Servers via a web interface.
 
 ##Getting Started
